@@ -15,7 +15,7 @@ records = [
         "last_name": "Baggins",
     },
     {
-        "student": "1009",
+        "student_id": "1009",
         "first_name": "Frodo",
         "last_name": "Baggins",
     }
