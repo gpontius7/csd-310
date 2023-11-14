@@ -15,7 +15,7 @@ for doc in docs:
 
 print ("--DISPLAYING STUDENT DOCUMENT FROM find_one() QUERY--")
 
-doc = collection.find_one({"student_id": "1009"})
+doc = collection.find_one({"student_id": "1007"})
 
 print(f"Student ID: {doc['student_id']}")
 print(f"First Name: {doc['first_name']}")
